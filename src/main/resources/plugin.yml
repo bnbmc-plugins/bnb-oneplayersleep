@@ -1,0 +1,5 @@
+name: OnePlayerSleep
+version: ${project.version}
+main: net.bnbdiscord.oneplayersleep.Oneplayersleep
+api-version: 1.13
+authors: [BananaFalls]
